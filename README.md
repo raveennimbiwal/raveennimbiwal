@@ -34,7 +34,7 @@ Currently exploring AI and Machine Learning.
 ### 📂 Projects
 
 - [📊 Sales Analysis](https://github.com/raveennimbiwal/ShopCart-sales-analysis)
-- [📉 Customer Churn Analysis] (https://github.com/raveennimbiwal/customer-churn-analysis)
+- [📉 Customer Churn Analysis](https://github.com/raveennimbiwal/customer-churn-analysis)
 - 🧹 Data Cleaning Project
 
 ## 🤝 Open To
