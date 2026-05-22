@@ -20,6 +20,7 @@ Currently exploring AI and Machine Learning.
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -32,8 +33,8 @@ Currently exploring AI and Machine Learning.
 
 ### 📂 Projects
 
-- 📊 Sales Analysis
-- 📉 Customer Churn Analysis
+- [📊 Sales Analysis](https://github.com/raveennimbiwal/ShopCart-sales-analysis)
+- [📉 Customer Churn Analysis] (https://github.com/raveennimbiwal/customer-churn-analysis)
 - 🧹 Data Cleaning Project
 
 ## 🤝 Open To
