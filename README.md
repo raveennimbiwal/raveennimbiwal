@@ -4,9 +4,9 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raveennimbiwal)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iamlearner2024@gmail.com)
 
-### Focused on data analytics, SQL, data cleaning, and building dashboards that turn raw data into meaningful insights.
+### Passionate about data analytics, data cleaning, and uncovering insights through SQL, Python, and dashboard development.
 
-I enjoy working with messy datasets, writing SQL queries, analyzing trends, and creating visualizations using Python, Power BI, and Excel. Most of my projects revolve around business insights, exploratory analysis, and data visualization.
+I enjoy analyzing datasets, identifying trends, and creating visualizations that make complex information easier to understand. My projects mainly revolve around business insights, exploratory data analysis, and building dashboards using Power BI and Python.
 
 Currently exploring AI and Machine Learning.
 
