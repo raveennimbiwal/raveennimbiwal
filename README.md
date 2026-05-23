@@ -10,6 +10,8 @@ I enjoy analyzing datasets, identifying trends, and creating visualizations that
 
 Currently exploring AI and Machine Learning.
 
+[My Portfolio Projects] (https://github.com/raveennimbiwal/portfolio/)
+
 ## 💻 Languages and Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -35,7 +37,8 @@ Currently exploring AI and Machine Learning.
 
 - [📊 Sales Analysis](https://github.com/raveennimbiwal/ShopCart-sales-analysis)
 - [📉 Customer Churn Analysis](https://github.com/raveennimbiwal/customer-churn-analysis)
-- 🧹 Data Cleaning Project
+- [🧹 Data Cleaning Project](https://github.com/raveennimbiwal/data-cleaning-project/tree/main/survey-data-cleaning)
+
 
 ## 🤝 Open To
 
