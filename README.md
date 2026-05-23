@@ -10,7 +10,7 @@ I enjoy analyzing datasets, identifying trends, and creating visualizations that
 
 Currently exploring AI and Machine Learning.
 
-[My Portfolio Projects] (https://github.com/raveennimbiwal/portfolio/)
+[My Portfolio Projects](https://github.com/raveennimbiwal/portfolio/)
 
 ## 💻 Languages and Tools
 
